@@ -2,8 +2,4 @@ This is a new File Name - File 1
 
 My name is Varun Goyal
 
-<<<<<<< HEAD
 Branch2 modify File12
-=======
-Branch1 modify File1
->>>>>>> 62a8f460f69f25d930de027b3f1e0318ec86fc0e
