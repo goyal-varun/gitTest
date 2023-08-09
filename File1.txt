@@ -1,7 +1,3 @@
 This is a new File Name - File 1
 
-My name is Varun Goyal
-
-Branch2 modify File12
-
-Branch1 made changes in File1
+My First name is Varun
