@@ -1,8 +1,5 @@
 This is another file - File2
 
-1
-2
-3
-A
-B
-C
+1A
+2B
+3C
