@@ -3,3 +3,6 @@ This is another file - File2
 1
 2
 3
+A
+B
+C
